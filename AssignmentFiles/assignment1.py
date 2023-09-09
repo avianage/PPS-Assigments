@@ -12,4 +12,4 @@ ptax = (0.02 * salary)     # ptax is 2% of basic pay
 
 net_salary = salary - (hra + ta + ptax)
 
-print("\nThe net-salary after deducing HA, TA and Professional Tax is: ", net_salary, "\n")
+print("\nThe net-salary after deducing HA, TA and Professional Tax is: ", net_salary)
